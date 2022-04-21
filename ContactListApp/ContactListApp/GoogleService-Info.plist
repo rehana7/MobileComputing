@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>238210669472-giab365ir60k4letblolodjgtog65voh.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.238210669472-giab365ir60k4letblolodjgtog65voh</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCW-gJjMK8KKR34L-YuOdiZb4_yLcDTZiY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>238210669472</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.nwmissouri.RehanaContactListApp</string>
+	<key>PROJECT_ID</key>
+	<string>rehanacontactlistapp</string>
+	<key>STORAGE_BUCKET</key>
+	<string>rehanacontactlistapp.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:238210669472:ios:a5b830f30205f2f26462c5</string>
+	<key>DATABASE_URL</key>
+	<string>https://rehanacontactlistapp-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
